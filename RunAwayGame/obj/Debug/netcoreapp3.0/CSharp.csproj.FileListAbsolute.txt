@@ -1,0 +1,11 @@
+g:\CSharp\RunAwayGame\RunAwayGame\bin\Debug\netcoreapp3.0\CSharp.exe
+G:\CSharp\RunAwayGame\RunAwayGame\bin\Debug\netcoreapp3.0\CSharp.deps.json
+G:\CSharp\RunAwayGame\RunAwayGame\bin\Debug\netcoreapp3.0\CSharp.runtimeconfig.json
+G:\CSharp\RunAwayGame\RunAwayGame\bin\Debug\netcoreapp3.0\CSharp.runtimeconfig.dev.json
+g:\CSharp\RunAwayGame\RunAwayGame\bin\Debug\netcoreapp3.0\CSharp.dll
+g:\CSharp\RunAwayGame\RunAwayGame\bin\Debug\netcoreapp3.0\CSharp.pdb
+g:\CSharp\RunAwayGame\RunAwayGame\obj\Debug\netcoreapp3.0\CSharp.csprojAssemblyReference.cache
+g:\CSharp\RunAwayGame\RunAwayGame\obj\Debug\netcoreapp3.0\CSharp.AssemblyInfoInputs.cache
+g:\CSharp\RunAwayGame\RunAwayGame\obj\Debug\netcoreapp3.0\CSharp.AssemblyInfo.cs
+g:\CSharp\RunAwayGame\RunAwayGame\obj\Debug\netcoreapp3.0\CSharp.dll
+g:\CSharp\RunAwayGame\RunAwayGame\obj\Debug\netcoreapp3.0\CSharp.pdb
